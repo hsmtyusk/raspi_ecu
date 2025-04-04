@@ -1,0 +1,85 @@
+Xsession: X session started for hiromitsulab at 2025年  4月  4日 金曜日 16:57:48 JST
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+xrdb: Can't open display ''
+xhost:  unable to open display ""
+dbus-update-activation-environment: setting USER=hiromitsulab
+dbus-update-activation-environment: setting LANGUAGE=ja_JP.UTF-8
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=wayland
+dbus-update-activation-environment: setting HOME=/home/hiromitsulab
+dbus-update-activation-environment: setting DESKTOP_SESSION=LXDE-pi-labwc
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting SDL_IM_MODULE=fcitx
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting IM_CONFIG_CHECK_ENV=1
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LOGNAME=hiromitsulab
+dbus-update-activation-environment: setting GTK_IM_MODULE=fcitx
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LANG=ja_JP.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXDE-pi-labwc
+dbus-update-activation-environment: setting XMODIFIERS=@im=fcitx
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/hiromitsulab
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=LXDE-pi-labwc
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting QT_IM_MODULE=fcitx
+dbus-update-activation-environment: setting LC_ALL=ja_JP.UTF-8
+dbus-update-activation-environment: setting PWD=/home/hiromitsulab
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=fcitx
+00:00:00.084 [ERROR] [EGL] command: eglQueryDeviceStringEXT, error: EGL_BAD_PARAMETER (0x300c), message: "eglQueryDeviceStringEXT"
+00:00:00.084 [ERROR] [EGL] command: eglQueryDeviceStringEXT, error: EGL_BAD_PARAMETER (0x300c), message: "eglQueryDeviceStringEXT"
+no profile matched
+pgrep: pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+
+失敗: そのようなエンティティはありません
+xsettingsd: Loaded 19 settings from /home/hiromitsulab/.config/xsettingsd/xsettingsd.conf
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+xsettingsd: Created window 0x400001 on screen 0 with timestamp 26722
+xsettingsd: Selection _XSETTINGS_S0 is owned by 0x0
+xsettingsd: Took ownership of selection _XSETTINGS_S0
+xsettingsd: Ignoring event of type 33
+userdel: rpi-first-boot-wizard のメールスプール (/var/mail/rpi-first-boot-wizard) がありません
+
+(polkit-mate-authentication-agent-1:1186): GLib-CRITICAL **: 16:57:57.355: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1186): polkit-mate-1-WARNING **: 16:57:57.355: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (pcmanfm:1201): WARNING **: 16:57:57.473: The directory '/home/hiromitsulab/Templates' doesn't exist, ignoring it
+II 04-04-25 16:57:59.410 - [src/panel/config/file.cpp:577] Reading XML configuration options from directory /usr/share/wf-panel-pi/metadata
+II 04-04-25 16:57:59.412 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/cputemp.xml
+II 04-04-25 16:57:59.413 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/gpu.xml
+II 04-04-25 16:57:59.417 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/window-list.xml
+II 04-04-25 16:57:59.418 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/notify.xml
+II 04-04-25 16:57:59.421 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/smenu.xml
+II 04-04-25 16:57:59.421 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/updater.xml
+II 04-04-25 16:57:59.425 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/tray.xml
+II 04-04-25 16:57:59.430 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/panel-pi.xml
+II 04-04-25 16:57:59.431 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/clock.xml
+II 04-04-25 16:57:59.434 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/ejecter.xml
+II 04-04-25 16:57:59.437 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/launchers.xml
+II 04-04-25 16:57:59.438 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/cpu.xml
+II 04-04-25 16:57:59.440 - [src/panel/config/file.cpp:590] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/batt.xml
+
+** (wf-panel-pi:1202): WARNING **: 16:57:59.461: The directory '/home/hiromitsulab/Templates' doesn't exist, ignoring it
+** Message: 16:58:00.391: batt: battery 0 not found
+** Message: 16:58:00.580: up: Checking for updates
+** Message: 16:58:14.931: up: Cache updated - comparing versions
+** Message: 16:58:21.411: up: Check complete - no updates available
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Unsupported maximum keycode 708, clipping.
+>                   X11 cannot support keycodes above 255.
+Errors from xkbcomp are not fatal to the X server
+01:39:54.894 [ERROR] [libinput] event1  - SEMICO USB Keyboard: client bug: event processing lagging behind by 70ms, your system is too slow
+
+02:00:40.271 [ERROR] [libinput] event0  - PixArt USB Optical Mouse: client bug: event processing lagging behind by 89ms, your system is too slow
+
